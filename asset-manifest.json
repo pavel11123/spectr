@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/spectr/static/css/main.92cb7b40.css",
-    "main.js": "/spectr/static/js/main.878bc131.js",
+    "main.css": "/spectr/static/css/main.8a5c8c8f.css",
+    "main.js": "/spectr/static/js/main.0be7f0d0.js",
     "static/media/fondFour.svg": "/spectr/static/media/fondFour.49cc4019741cb0de72bb892839d5ae54.svg",
     "static/media/fondTwo.svg": "/spectr/static/media/fondTwo.55dbb53c0a1ec3be393928fb8c46d233.svg",
     "static/media/fondThree.svg": "/spectr/static/media/fondThree.b6cea2a95806e5a85ec496355196bb40.svg",
@@ -22,11 +22,11 @@
     "static/media/triangleTwo.svg": "/spectr/static/media/triangleTwo.18d1f11e79e276c231839d08d2d7e09b.svg",
     "static/media/triangleFour.svg": "/spectr/static/media/triangleFour.2b3c9746ca7862c894d6d047d7da4712.svg",
     "static/media/triangle.svg": "/spectr/static/media/triangle.0786437192fc73a8ba8ccd986e2711ac.svg",
-    "main.92cb7b40.css.map": "/spectr/static/css/main.92cb7b40.css.map",
-    "main.878bc131.js.map": "/spectr/static/js/main.878bc131.js.map"
+    "main.8a5c8c8f.css.map": "/spectr/static/css/main.8a5c8c8f.css.map",
+    "main.0be7f0d0.js.map": "/spectr/static/js/main.0be7f0d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.92cb7b40.css",
-    "static/js/main.878bc131.js"
+    "static/css/main.8a5c8c8f.css",
+    "static/js/main.0be7f0d0.js"
   ]
 }
