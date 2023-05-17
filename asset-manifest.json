@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/spektr/static/css/main.a316a587.css",
+    "main.js": "/spektr/static/js/main.d912aff8.js",
+    "static/media/fondFour.svg": "/spektr/static/media/fondFour.49cc4019741cb0de72bb892839d5ae54.svg",
+    "static/media/fondTwo.svg": "/spektr/static/media/fondTwo.55dbb53c0a1ec3be393928fb8c46d233.svg",
+    "static/media/fondThree.svg": "/spektr/static/media/fondThree.b6cea2a95806e5a85ec496355196bb40.svg",
+    "static/media/fondOne.svg": "/spektr/static/media/fondOne.784b6e3a79a4073e22c3f21f442a1469.svg",
+    "static/media/theme.svg": "/spektr/static/media/theme.547ac2ec5bc7b14a37f6.svg",
+    "static/media/350.svg": "/spektr/static/media/350.9f12024f7ef9f449a24468e85dc90790.svg",
+    "static/media/star.svg": "/spektr/static/media/star.c123f9ebb1889e982865d6c00db0355d.svg",
+    "static/media/10.svg": "/spektr/static/media/10.4b79e6f6232235a99bacb37c93a4741c.svg",
+    "static/media/logo_black.svg": "/spektr/static/media/logo_black.6226c6784879da54cd24efc0c0ddcfe9.svg",
+    "static/media/letter.svg": "/spektr/static/media/letter.39e1ea5269dd1f74026a50ffa1694cc9.svg",
+    "static/media/language.svg": "/spektr/static/media/language.a06f23c6cfb0545bd8e2.svg",
+    "static/media/arrowPrev.svg": "/spektr/static/media/arrowPrev.4dbd4f89762d40f7692a.svg",
+    "static/media/arrowNext.svg": "/spektr/static/media/arrowNext.a6486588457c00592044.svg",
+    "static/media/arrow.svg": "/spektr/static/media/arrow.f234a45565ff1e486719.svg",
+    "static/media/titleIcon.svg": "/spektr/static/media/titleIcon.94976068ff01f7412ab9bbb6793921ac.svg",
+    "index.html": "/spektr/index.html",
+    "static/media/triangleThree.svg": "/spektr/static/media/triangleThree.bffe3a360b53c72f1409c1069e30d059.svg",
+    "static/media/triangleTwo.svg": "/spektr/static/media/triangleTwo.18d1f11e79e276c231839d08d2d7e09b.svg",
+    "static/media/triangleFour.svg": "/spektr/static/media/triangleFour.2b3c9746ca7862c894d6d047d7da4712.svg",
+    "static/media/triangle.svg": "/spektr/static/media/triangle.0786437192fc73a8ba8ccd986e2711ac.svg",
+    "main.a316a587.css.map": "/spektr/static/css/main.a316a587.css.map",
+    "main.d912aff8.js.map": "/spektr/static/js/main.d912aff8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a316a587.css",
+    "static/js/main.d912aff8.js"
+  ]
+}
