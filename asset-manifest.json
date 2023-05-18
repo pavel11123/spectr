@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/spectr/static/css/main.8a5c8c8f.css",
-    "main.js": "/spectr/static/js/main.0be7f0d0.js",
+    "main.css": "/spectr/static/css/main.997dabac.css",
+    "main.js": "/spectr/static/js/main.6670ffe5.js",
     "static/media/fondFour.svg": "/spectr/static/media/fondFour.49cc4019741cb0de72bb892839d5ae54.svg",
     "static/media/fondTwo.svg": "/spectr/static/media/fondTwo.55dbb53c0a1ec3be393928fb8c46d233.svg",
     "static/media/fondThree.svg": "/spectr/static/media/fondThree.b6cea2a95806e5a85ec496355196bb40.svg",
@@ -10,7 +10,6 @@
     "static/media/350.svg": "/spectr/static/media/350.9f12024f7ef9f449a24468e85dc90790.svg",
     "static/media/star.svg": "/spectr/static/media/star.c123f9ebb1889e982865d6c00db0355d.svg",
     "static/media/10.svg": "/spectr/static/media/10.4b79e6f6232235a99bacb37c93a4741c.svg",
-    "static/media/logo_black.svg": "/spectr/static/media/logo_black.6226c6784879da54cd24efc0c0ddcfe9.svg",
     "static/media/letter.svg": "/spectr/static/media/letter.39e1ea5269dd1f74026a50ffa1694cc9.svg",
     "static/media/language.svg": "/spectr/static/media/language.a06f23c6cfb0545bd8e2.svg",
     "static/media/arrowPrev.svg": "/spectr/static/media/arrowPrev.4dbd4f89762d40f7692a.svg",
@@ -22,11 +21,11 @@
     "static/media/triangleTwo.svg": "/spectr/static/media/triangleTwo.18d1f11e79e276c231839d08d2d7e09b.svg",
     "static/media/triangleFour.svg": "/spectr/static/media/triangleFour.2b3c9746ca7862c894d6d047d7da4712.svg",
     "static/media/triangle.svg": "/spectr/static/media/triangle.0786437192fc73a8ba8ccd986e2711ac.svg",
-    "main.8a5c8c8f.css.map": "/spectr/static/css/main.8a5c8c8f.css.map",
-    "main.0be7f0d0.js.map": "/spectr/static/js/main.0be7f0d0.js.map"
+    "main.997dabac.css.map": "/spectr/static/css/main.997dabac.css.map",
+    "main.6670ffe5.js.map": "/spectr/static/js/main.6670ffe5.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a5c8c8f.css",
-    "static/js/main.0be7f0d0.js"
+    "static/css/main.997dabac.css",
+    "static/js/main.6670ffe5.js"
   ]
 }
