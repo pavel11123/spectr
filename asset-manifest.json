@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/spectr/static/css/main.ae664745.css",
-    "main.js": "/spectr/static/js/main.5a26cffc.js",
+    "main.css": "/spectr/static/css/main.81313e9c.css",
+    "main.js": "/spectr/static/js/main.7234a763.js",
     "static/media/fondFour.svg": "/spectr/static/media/fondFour.49cc4019741cb0de72bb892839d5ae54.svg",
     "static/media/fondTwo.svg": "/spectr/static/media/fondTwo.55dbb53c0a1ec3be393928fb8c46d233.svg",
     "static/media/350.svg": "/spectr/static/media/350.29715239f05d9a92a32b6f8dcd1337e8.svg",
@@ -19,17 +19,18 @@
     "static/media/languageEn.svg": "/spectr/static/media/languageEn.cdf45b97c6d9419909d6.svg",
     "static/media/titleIcon.svg": "/spectr/static/media/titleIcon.94976068ff01f7412ab9bbb6793921ac.svg",
     "index.html": "/spectr/index.html",
+    "static/media/triangleBackground.svg": "/spectr/static/media/triangleBackground.0251afe2896a89617428a85a35e7e312.svg",
     "static/media/triangleThree.svg": "/spectr/static/media/triangleThree.bffe3a360b53c72f1409c1069e30d059.svg",
     "static/media/triangleTwo.svg": "/spectr/static/media/triangleTwo.18d1f11e79e276c231839d08d2d7e09b.svg",
     "static/media/triangleFour.svg": "/spectr/static/media/triangleFour.2b3c9746ca7862c894d6d047d7da4712.svg",
     "static/media/plus.svg": "/spectr/static/media/plus.b6d169e023f31e18e2e8.svg",
     "static/media/minus.svg": "/spectr/static/media/minus.1c2b9b8cc27610e20de1.svg",
     "static/media/triangle.svg": "/spectr/static/media/triangle.0786437192fc73a8ba8ccd986e2711ac.svg",
-    "main.ae664745.css.map": "/spectr/static/css/main.ae664745.css.map",
-    "main.5a26cffc.js.map": "/spectr/static/js/main.5a26cffc.js.map"
+    "main.81313e9c.css.map": "/spectr/static/css/main.81313e9c.css.map",
+    "main.7234a763.js.map": "/spectr/static/js/main.7234a763.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae664745.css",
-    "static/js/main.5a26cffc.js"
+    "static/css/main.81313e9c.css",
+    "static/js/main.7234a763.js"
   ]
 }
