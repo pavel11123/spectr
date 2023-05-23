@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/spectr/static/css/main.fe808efd.css",
-    "main.js": "/spectr/static/js/main.ea2bbfe7.js",
+    "main.js": "/spectr/static/js/main.c9a26826.js",
     "static/media/fondFour.svg": "/spectr/static/media/fondFour.49cc4019741cb0de72bb892839d5ae54.svg",
     "static/media/fondTwo.svg": "/spectr/static/media/fondTwo.55dbb53c0a1ec3be393928fb8c46d233.svg",
     "static/media/350.svg": "/spectr/static/media/350.29715239f05d9a92a32b6f8dcd1337e8.svg",
@@ -27,10 +27,10 @@
     "static/media/minus.svg": "/spectr/static/media/minus.1c2b9b8cc27610e20de1.svg",
     "static/media/triangle.svg": "/spectr/static/media/triangle.0786437192fc73a8ba8ccd986e2711ac.svg",
     "main.fe808efd.css.map": "/spectr/static/css/main.fe808efd.css.map",
-    "main.ea2bbfe7.js.map": "/spectr/static/js/main.ea2bbfe7.js.map"
+    "main.c9a26826.js.map": "/spectr/static/js/main.c9a26826.js.map"
   },
   "entrypoints": [
     "static/css/main.fe808efd.css",
-    "static/js/main.ea2bbfe7.js"
+    "static/js/main.c9a26826.js"
   ]
 }
