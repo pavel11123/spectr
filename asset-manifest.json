@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/spectr/static/css/main.bcbc9c90.css",
-    "main.js": "/spectr/static/js/main.35feace9.js",
+    "main.css": "/spectr/static/css/main.d17ecda4.css",
+    "main.js": "/spectr/static/js/main.c7e865d6.js",
     "static/media/fondFour.svg": "/spectr/static/media/fondFour.49cc4019741cb0de72bb892839d5ae54.svg",
     "static/media/fondTwo.svg": "/spectr/static/media/fondTwo.55dbb53c0a1ec3be393928fb8c46d233.svg",
     "static/media/350.svg": "/spectr/static/media/350.29715239f05d9a92a32b6f8dcd1337e8.svg",
@@ -13,9 +13,10 @@
     "static/media/letter.svg": "/spectr/static/media/letter.39e1ea5269dd1f74026a50ffa1694cc9.svg",
     "static/media/language.svg": "/spectr/static/media/language.a06f23c6cfb0545bd8e2.svg",
     "static/media/arrowPrev.svg": "/spectr/static/media/arrowPrev.4dbd4f89762d40f7692a.svg",
+    "static/media/arrowPrevWhite.svg": "/spectr/static/media/arrowPrevWhite.dae7fbcd46b681de93a7.svg",
     "static/media/arrowNext.svg": "/spectr/static/media/arrowNext.a6486588457c00592044.svg",
+    "static/media/arrowNextWhite.svg": "/spectr/static/media/arrowNextWhite.640ef26ec509a3a99fad.svg",
     "static/media/themeBlack.svg": "/spectr/static/media/themeBlack.7793e192cbb8822c1a01.svg",
-    "static/media/arrow.svg": "/spectr/static/media/arrow.f234a45565ff1e486719.svg",
     "static/media/languageEn.svg": "/spectr/static/media/languageEn.cdf45b97c6d9419909d6.svg",
     "static/media/titleIcon.svg": "/spectr/static/media/titleIcon.94976068ff01f7412ab9bbb6793921ac.svg",
     "static/media/close.svg": "/spectr/static/media/close.1a23c73496a671b618624a794226020c.svg",
@@ -24,14 +25,12 @@
     "static/media/triangleThree.svg": "/spectr/static/media/triangleThree.bffe3a360b53c72f1409c1069e30d059.svg",
     "static/media/triangleTwo.svg": "/spectr/static/media/triangleTwo.18d1f11e79e276c231839d08d2d7e09b.svg",
     "static/media/triangleFour.svg": "/spectr/static/media/triangleFour.2b3c9746ca7862c894d6d047d7da4712.svg",
-    "static/media/plus.svg": "/spectr/static/media/plus.b6d169e023f31e18e2e8.svg",
-    "static/media/minus.svg": "/spectr/static/media/minus.1c2b9b8cc27610e20de1.svg",
     "static/media/triangle.svg": "/spectr/static/media/triangle.0786437192fc73a8ba8ccd986e2711ac.svg",
-    "main.bcbc9c90.css.map": "/spectr/static/css/main.bcbc9c90.css.map",
-    "main.35feace9.js.map": "/spectr/static/js/main.35feace9.js.map"
+    "main.d17ecda4.css.map": "/spectr/static/css/main.d17ecda4.css.map",
+    "main.c7e865d6.js.map": "/spectr/static/js/main.c7e865d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.bcbc9c90.css",
-    "static/js/main.35feace9.js"
+    "static/css/main.d17ecda4.css",
+    "static/js/main.c7e865d6.js"
   ]
 }
